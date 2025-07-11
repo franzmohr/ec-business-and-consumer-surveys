@@ -22,6 +22,10 @@ Structure of this repository:
 
 ## Usage
 
+``` r
+dl_folder <- "path/to/the/project"
+```
+
 ### Data update
 
 ``` r

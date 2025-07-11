@@ -26,6 +26,10 @@ Structure of this repository:
 
 ## Usage
 
+```{r, eval=FALSE}
+dl_folder <- "path/to/the/project"
+```
+
 ### Data update
 
 ```{r, eval=FALSE}
